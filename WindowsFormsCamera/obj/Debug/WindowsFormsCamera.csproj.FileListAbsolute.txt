@@ -1,0 +1,17 @@
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\WindowsFormsCamera.exe.config
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\WindowsFormsCamera.exe
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\WindowsFormsCamera.pdb
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\AForge.Video.dll
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\AForge.dll
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\AForge.Video.xml
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\bin\Debug\AForge.xml
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\obj\Debug\WindowsFormsCamera.csprojAssemblyReference.cache
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\obj\Debug\WindowsFormsCamera.Form1.resources
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\obj\Debug\WindowsFormsCamera.Properties.Resources.resources
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\obj\Debug\WindowsFormsCamera.csproj.GenerateResource.cache
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\obj\Debug\WindowsFormsCamera.csproj.CoreCompileInputs.cache
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\obj\Debug\WindowsFormsCamera.csproj.CopyComplete
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\obj\Debug\WindowsFormsCamera.exe
+C:\Users\Luu Nhan Cuong\source\repos\Camera\WindowsFormsCamera\obj\Debug\WindowsFormsCamera.pdb
